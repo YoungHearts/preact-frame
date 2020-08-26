@@ -1,0 +1,31 @@
+/*
+ * @Author: yangj
+ * @Date: 2019-12-05 16:45:49
+ * @LastEditors: yangj
+ */
+ body{
+     min-height: 100vh;
+     margin:0;
+     font-size:12px;
+     font-family: Helvetica, Arial, sans-serif;
+     color: #1c1e21;
+     overflow-y: scroll;
+ }
+ body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol, li, pre, form, fieldset, legend, button, input, textarea, th, td { margin:0; padding:0; } 
+body, button, input, select, textarea { outline: none;border:none} 
+h1, h2, h3, h4, h5, h6{ font-size:100%; } 
+address, cite, dfn, em, var { font-style:normal; } 
+code, kbd, pre, samp { font-family:couriernew, courier, monospace; } 
+small{ font-size:12px; } 
+ul, ol { list-style:none; } 
+a:hover,a:visited { text-decoration:underline;color: #385898; }
+a{
+    text-decoration: none;
+}
+sup { vertical-align:text-top; } 
+sub{ vertical-align:text-bottom; }
+legend { color:#000; } 
+fieldset, img { border:0; } 
+button, select, textarea { font-size:100%; } 
+button{cursor: pointer}
+table { border-collapse:collapse; border-spacing:0; }

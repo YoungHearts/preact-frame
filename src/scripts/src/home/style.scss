@@ -1,0 +1,10 @@
+@import "../../components/commt.scss";
+.parent{
+    background-color: $theme;
+}
+.home{
+    padding-top: 12px;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}

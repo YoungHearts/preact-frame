@@ -1,0 +1,18 @@
+@import "../commt.scss";
+.layout{
+    background-color: $bg;
+    min-height: 100vh;
+}
+.main{
+    margin: auto;
+}
+@media (min-width: 960px){
+    .main {
+        width: 100%;
+    }
+}
+@media (min-width: 1012px){
+    .main {
+        width: 1012px;
+    }
+}

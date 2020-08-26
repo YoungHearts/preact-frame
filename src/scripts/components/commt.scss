@@ -1,0 +1,11 @@
+
+$theme:#4267b2;//主题色
+$theme-hover:#385898;
+$bg:#e9ebee;//常规背景颜色
+$bg-hover:rgba(0, 0, 0, .05);
+$black:#1c1e21;//常规字体颜色
+$gray:#616770;//灰色
+$borderColor:#dddfe2;//灰色
+.theme{
+  color: $theme;
+};
